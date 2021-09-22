@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\FileCopyProtectionServer\FileCopyProtectionServer\bin\Debug\FileCopyProtectionServer.exe.config
+C:\Users\Admin\source\repos\FileCopyProtectionServer\FileCopyProtectionServer\bin\Debug\FileCopyProtectionServer.exe
+C:\Users\Admin\source\repos\FileCopyProtectionServer\FileCopyProtectionServer\bin\Debug\FileCopyProtectionServer.pdb
+C:\Users\Admin\source\repos\FileCopyProtectionServer\FileCopyProtectionServer\obj\Debug\FileCopyProtectionServer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FileCopyProtectionServer\FileCopyProtectionServer\obj\Debug\FileCopyProtectionServer.exe
+C:\Users\Admin\source\repos\FileCopyProtectionServer\FileCopyProtectionServer\obj\Debug\FileCopyProtectionServer.pdb
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\bin\Debug\FileCopyProtectionServer.exe.config
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\bin\Debug\FileCopyProtectionServer.exe
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\bin\Debug\FileCopyProtectionServer.pdb
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\obj\Debug\FileCopyProtectionServer.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\obj\Debug\FileCopyProtectionServer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\obj\Debug\FileCopyProtectionServer.exe
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\obj\Debug\FileCopyProtectionServer.pdb

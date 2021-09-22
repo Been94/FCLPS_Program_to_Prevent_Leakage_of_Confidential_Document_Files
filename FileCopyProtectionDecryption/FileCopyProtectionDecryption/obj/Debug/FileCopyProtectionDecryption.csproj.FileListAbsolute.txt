@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\FileCopyProtectionDecryption\FileCopyProtectionDecryption\bin\Debug\FileCopyProtectionDecryption.exe.config
+C:\Users\Admin\source\repos\FileCopyProtectionDecryption\FileCopyProtectionDecryption\bin\Debug\FileCopyProtectionDecryption.exe
+C:\Users\Admin\source\repos\FileCopyProtectionDecryption\FileCopyProtectionDecryption\bin\Debug\FileCopyProtectionDecryption.pdb
+C:\Users\Admin\source\repos\FileCopyProtectionDecryption\FileCopyProtectionDecryption\obj\Debug\FileCopyProtectionDecryption.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FileCopyProtectionDecryption\FileCopyProtectionDecryption\obj\Debug\FileCopyProtectionDecryption.exe
+C:\Users\Admin\source\repos\FileCopyProtectionDecryption\FileCopyProtectionDecryption\obj\Debug\FileCopyProtectionDecryption.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\bin\Release\FileCopyProtectionServer.exe.config
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\bin\Release\FileCopyProtectionServer.exe
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\bin\Release\FileCopyProtectionServer.pdb
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\obj\Release\FileCopyProtectionServer.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\obj\Release\FileCopyProtectionServer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\obj\Release\FileCopyProtectionServer.exe
+C:\Users\admin\Desktop\FileCopyProtectionServer\FileCopyProtectionServer\obj\Release\FileCopyProtectionServer.pdb

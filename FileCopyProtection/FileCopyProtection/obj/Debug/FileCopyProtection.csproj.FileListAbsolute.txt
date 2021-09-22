@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\FileCopyProtection\FileCopyProtection\bin\Debug\FileCopyProtection.exe.config
+C:\Users\Admin\source\repos\FileCopyProtection\FileCopyProtection\bin\Debug\FileCopyProtection.exe
+C:\Users\Admin\source\repos\FileCopyProtection\FileCopyProtection\bin\Debug\FileCopyProtection.pdb
+C:\Users\Admin\source\repos\FileCopyProtection\FileCopyProtection\obj\Debug\FileCopyProtection.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FileCopyProtection\FileCopyProtection\obj\Debug\FileCopyProtection.exe
+C:\Users\Admin\source\repos\FileCopyProtection\FileCopyProtection\obj\Debug\FileCopyProtection.pdb
+C:\Users\admin\Desktop\FileCopyProtection\FileCopyProtection\bin\Debug\FileCopyProtection.exe.config
+C:\Users\admin\Desktop\FileCopyProtection\FileCopyProtection\bin\Debug\FileCopyProtection.exe
+C:\Users\admin\Desktop\FileCopyProtection\FileCopyProtection\bin\Debug\FileCopyProtection.pdb
+C:\Users\admin\Desktop\FileCopyProtection\FileCopyProtection\obj\Debug\FileCopyProtection.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\FileCopyProtection\FileCopyProtection\obj\Debug\FileCopyProtection.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FileCopyProtection\FileCopyProtection\obj\Debug\FileCopyProtection.exe
+C:\Users\admin\Desktop\FileCopyProtection\FileCopyProtection\obj\Debug\FileCopyProtection.pdb

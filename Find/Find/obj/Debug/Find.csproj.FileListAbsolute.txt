@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Find\Find\bin\Debug\Find.exe.config
+C:\Users\admin\source\repos\Find\Find\bin\Debug\Find.exe
+C:\Users\admin\source\repos\Find\Find\bin\Debug\Find.pdb
+C:\Users\admin\source\repos\Find\Find\obj\Debug\Find.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Find\Find\obj\Debug\Find.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Find\Find\obj\Debug\Find.exe
+C:\Users\admin\source\repos\Find\Find\obj\Debug\Find.pdb

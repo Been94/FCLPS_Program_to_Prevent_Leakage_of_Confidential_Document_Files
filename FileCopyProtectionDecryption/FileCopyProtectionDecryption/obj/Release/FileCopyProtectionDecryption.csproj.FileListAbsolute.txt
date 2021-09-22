@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\FileCopyProtectionDecryption\FileCopyProtectionDecryption\bin\Release\FileCopyProtectionDecryption.exe.config
+C:\Users\admin\Desktop\FileCopyProtectionDecryption\FileCopyProtectionDecryption\bin\Release\FileCopyProtectionDecryption.exe
+C:\Users\admin\Desktop\FileCopyProtectionDecryption\FileCopyProtectionDecryption\bin\Release\FileCopyProtectionDecryption.pdb
+C:\Users\admin\Desktop\FileCopyProtectionDecryption\FileCopyProtectionDecryption\obj\Release\FileCopyProtectionDecryption.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\FileCopyProtectionDecryption\FileCopyProtectionDecryption\obj\Release\FileCopyProtectionDecryption.exe
+C:\Users\admin\Desktop\FileCopyProtectionDecryption\FileCopyProtectionDecryption\obj\Release\FileCopyProtectionDecryption.pdb
